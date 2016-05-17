@@ -19,13 +19,14 @@ public class MainActivity extends AppCompatActivity {
     private CharSequence text = "";
     private int duration = Toast.LENGTH_SHORT;
 
-    Context context = getApplicationContext();
+    Context context;
     Toast toast;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        context = getApplicationContext();
 
         btn_v = (Button) findViewById(R.id.button_v);
         btn_i = (Button) findViewById(R.id.button_i);

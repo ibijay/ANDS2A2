@@ -10,43 +10,44 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Red"
+        android:text="@string/Red"
         android:id="@+id/button_r"
-        android:background="#fd0202" />
+        android:background="#fd0202"
+        android:singleLine="true" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Orange"
+        android:text="@string/Orange"
         android:id="@+id/button_o"
         android:background="#fb9905" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Yellow"
+        android:text="@string/Yellow"
         android:id="@+id/button_y"
         android:background="#fee401" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Green"
+        android:text="@string/Green"
         android:id="@+id/button_g"
         android:background="#89fc06" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Blue"
+        android:text="@string/Blue"
         android:id="@+id/button_b"
         android:background="#08d0f8" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Indigo"
+        android:text="@string/Indigo"
         android:id="@+id/button_i"
         android:background="#060af4" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Violate"
+        android:text="@string/Violate"
         android:id="@+id/button_v"
         android:background="#930af5" />
 

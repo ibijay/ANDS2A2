@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyApp_VIBGYOR</string>
+    <string name="Orange">Orange</string>
+    <string name="Red">Red</string>
+    <string name="Green">Green</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Blue">Blue</string>
+    <string name="Indigo">Indigo</string>
+    <string name="Violate">Violate</string>
 </resources>
